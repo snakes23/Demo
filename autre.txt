@@ -1,3 +1,5 @@
 ceci est un fichier text.
 
 fichier modifié depuis github
+
+Mais aussi modifié depuis ma machine local
